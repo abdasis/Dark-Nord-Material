@@ -1,0 +1,27 @@
+<mtTheme>
+  <shouldSyncColors>false</shouldSyncColors>
+  <fileId>custom</fileId>
+  <themeId>dark-nord-by-abdulaziz</themeId>
+  <name>Dark Nord Customer By Abdul Aziz</name>
+  <editorColorsScheme>Atom Dark Custom</editorColorsScheme>
+  <dark>true</dark>
+  <colors>
+    <color id="background" value="1f2230ff"/>
+    <color id="foreground" value="f8f8f2ff"/>
+    <color id="text" value="6272a4ff"/>
+    <color id="highlight" value="44475aff"/>
+    <color id="selectionBackground" value="44475aff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="393c4bff"/>
+    <color id="secondaryBackground" value="212530ff"/>
+    <color id="disabled" value="6272a4ff"/>
+    <color id="contrast" value="191a21ff"/>
+    <color id="tableSelected" value="44475aff"/>
+    <color id="secondBorder" value="282a36ff"/>
+    <color id="treeSelection" value="2f3342ff"/>
+    <color id="notifications" value="1d2228ff"/>
+    <color id="accent" value="4089f1ff"/>
+    <color id="secondAccent" value="80ffeaff"/>
+    <color id="excluded" value="313341ff"/>
+  </colors>
+</mtTheme>
